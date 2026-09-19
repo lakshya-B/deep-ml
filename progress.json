@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:58:51.728Z",
+  "generated_at": "2026-09-19T18:42:04.652Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -318,6 +318,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-09-19T10:46:57.128Z",
       "last_pushed_at": "2026-09-19T17:58:51.726Z"
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-19T18:42:03.871Z",
+      "last_pushed_at": "2026-09-19T18:42:03.871Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
