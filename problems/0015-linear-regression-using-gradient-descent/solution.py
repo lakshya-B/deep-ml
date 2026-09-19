@@ -29,6 +29,10 @@ def linear_regression_gradient_descent(X: np.ndarray, y: np.ndarray, alpha: floa
         # Gradient of MSE
         gradient = (1 / m) * (X.T @ error)
 
+        # optimization
+        if np.linalg.norm(gradient) < 1e-6:
+            break
+
         # Update parameters
         theta -= alpha * gradient
 
