@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:58:49.864Z",
+  "generated_at": "2026-09-19T17:58:51.728Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -75,7 +75,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-17T15:03:40.463Z",
-      "last_pushed_at": "2026-09-17T15:03:40.463Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:9": {
       "kind": "math",
@@ -86,7 +86,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-17T15:08:39.902Z",
-      "last_pushed_at": "2026-09-17T15:08:39.902Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:10": {
       "kind": "math",
@@ -97,7 +97,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-17T15:11:20.358Z",
-      "last_pushed_at": "2026-09-17T15:11:20.358Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:8": {
       "kind": "math",
@@ -108,7 +108,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-17T15:50:11.593Z",
-      "last_pushed_at": "2026-09-17T15:50:11.593Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -223,7 +223,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-18T18:22:28.410Z",
-      "last_pushed_at": "2026-09-18T18:22:28.410Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:5": {
       "kind": "math",
@@ -234,7 +234,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-18T18:25:29.772Z",
-      "last_pushed_at": "2026-09-18T18:25:29.772Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "problem:116": {
       "kind": "problem",
@@ -284,7 +284,7 @@
       "url": "https://www.deep-ml.com/math-problems/11",
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-09-19T10:23:18.223Z",
-      "last_pushed_at": "2026-09-19T10:23:18.223Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:12": {
       "kind": "math",
@@ -295,7 +295,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-09-19T10:26:01.633Z",
-      "last_pushed_at": "2026-09-19T10:26:01.633Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:13": {
       "kind": "math",
@@ -306,7 +306,7 @@
       "url": "https://www.deep-ml.com/math-problems/13",
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-09-19T10:40:25.104Z",
-      "last_pushed_at": "2026-09-19T10:40:25.104Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     },
     "math:14": {
       "kind": "math",
@@ -317,7 +317,7 @@
       "url": "https://www.deep-ml.com/math-problems/14",
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-09-19T10:46:57.128Z",
-      "last_pushed_at": "2026-09-19T10:46:57.128Z"
+      "last_pushed_at": "2026-09-19T17:58:51.726Z"
     }
   }
 }
