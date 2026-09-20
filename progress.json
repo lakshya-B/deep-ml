@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:11:30.472Z",
+  "generated_at": "2026-09-20T16:10:44.053Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -416,6 +416,17 @@
       "last_pushed_at": "2026-09-20T06:11:29.624Z",
       "language": "python",
       "lines": 19
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-20T16:10:43.401Z",
+      "last_pushed_at": "2026-09-20T16:10:43.401Z"
     }
   }
 }
