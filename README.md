@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 30 problems · 0 labs · 16 math
+**47** solved · 31 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-17 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-09-17 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-22 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-23 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-22 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-16 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-14 | [solution](problems/0354-handle-missing-data-with-imputation) |
